@@ -1,4 +1,6 @@
-[index.html](https://github.com/user-attachments/files/31449685/index.html)
+[index.html](https://github.com/user-attachments/files/31449753/index.html)
+<!DOCTYPE html>
+<html lang="ko">
 <!DOCTYPE html>
 <html lang="ko">
 <head>
