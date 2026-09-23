@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/31449753/index.html)
+[Desktop Goose v0.31.zip](https://github.com/user-attachments/files/32547912/Desktop.Goose.v0.31.zip)
 <!DOCTYPE html>
 <html lang="ko">
 <!DOCTYPE html>
